@@ -1,3 +1,4 @@
 # code should build data itself, not store in github
 data/
 .DS_Store
+notebooks/.ipynb_checkpoints/
